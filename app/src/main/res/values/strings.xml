@@ -1,0 +1,55 @@
+<resources>
+    <!-- Application information -->
+    <string name="app_name">Smart Petrol Cost Calculator</string>
+    <string name="app_full_title">Smart Petrol Cost Calculator with BUDI MADANI Rebate</string>
+    <string name="app_subtitle">Malaysia Fuel Cost Estimator</string>
+
+    <!-- Bottom navigation labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_about">About</string>
+
+    <!-- Home page labels -->
+    <string name="home_title">Petrol Cost Calculator</string>
+    <string name="home_description">Calculate your petrol cost and BUDI MADANI rebate eligibility.</string>
+
+    <string name="label_petrol_type">Petrol Type</string>
+    <string name="label_petrol_price">Petrol Price per Liter (RM)</string>
+    <string name="label_fuel_usage">Fuel Usage (Liters)</string>
+    <string name="label_budi_eligible">BUDI MADANI Eligible?</string>
+
+    <string name="option_ron95">RON95</string>
+    <string name="option_ron97">RON97</string>
+    <string name="option_diesel">Diesel</string>
+
+    <string name="option_yes">Yes</string>
+    <string name="option_no">No</string>
+
+    <string name="button_calculate">Calculate</string>
+    <string name="button_reset">Reset</string>
+
+    <!-- Output labels -->
+    <string name="result_title">Calculation Result</string>
+    <string name="total_petrol_cost_default">Total Petrol Cost: RM 0.00</string>
+    <string name="budi_rebate_default">BUDI Rebate: RM 0.00</string>
+    <string name="total_saving_default">Final Payable: RM 0.00</string>
+    <string name="rebate_note">Note: BUDI rebate only applies for RON95 and eligible users.</string>
+
+    <!-- About page labels -->
+    <string name="about_title">About This Application</string>
+    <string name="about_description">This application helps Malaysian users estimate petrol costs and calculate BUDI MADANI rebate savings based on eligibility.</string>
+
+    <string name="author_name">Name: Zarith Asyraf Bin Zureimi</string>
+    <string name="matric_no">Matric No: 2025161739</string>
+    <string name="course_name">Course: ICT602</string>
+    <string name="copyright_notice">© 2026 Zarith Asyraf. All rights reserved.</string>
+
+    <!-- Replace this with your real GitHub URL later -->
+    <string name="github_label">GitHub Repository</string>
+    <string name="github_url">https://github.com/zasyxmi/SmartPetrolCostCalculator</string>
+
+    <!-- Validation messages -->
+    <string name="error_empty_price">Please enter petrol price per liter.</string>
+    <string name="error_empty_usage">Please enter fuel usage in liters.</string>
+    <string name="error_invalid_input">Please enter valid decimal numbers.</string>
+    <string name="error_negative_input">Value cannot be negative.</string>
+</resources>
