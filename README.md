@@ -17,6 +17,8 @@ This project was developed for the **ICT602 Mobile Technology** individual assig
 | Course | ICT602 |
 | Year | 2026 |
 
+
+
 ---
 
 ## 🎯 Application Objectives
@@ -47,8 +49,9 @@ The rebate is calculated using the subsidy rate of:
 
 ```text
 RM 1.99 per liter
+```
 
-## 📸 Application Screenshots
+## 📷 Application Screenshots
 
 ### Home Page
 ![Home Page](screenshots/home_screen.jpg)
@@ -58,3 +61,6 @@ RM 1.99 per liter
 
 ### About Page
 ![About Page](screenshots/about_screen.jpg)
+
+``` 
+
