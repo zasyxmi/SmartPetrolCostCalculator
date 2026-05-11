@@ -54,13 +54,13 @@ RM 1.99 per liter
 ## 📷 Application Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_screen.jpg)
+![Home Page](screenshots/home_screen.png)
 
 ### Calculation Result
-![Calculation Result](screenshots/calculation_result.jpg)
+![Calculation Result](screenshots/calculation_result.png)
 
 ### About Page
-![About Page](screenshots/about_screen.jpg)
+![About Page](screenshots/about_screen.png)
 
 ``` 
 
