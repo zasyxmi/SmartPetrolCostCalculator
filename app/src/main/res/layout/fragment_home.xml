@@ -39,7 +39,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="18dp"
-            android:background="#FFFFFF"
+            android:background="@drawable/bg_card_premium"
             android:elevation="4dp"
             android:orientation="vertical"
             android:padding="16dp">
@@ -79,7 +79,9 @@
                 android:hint="Example: 4.27"
                 android:inputType="numberDecimal"
                 android:minHeight="48dp"
-                android:padding="10dp" />
+                android:padding="10dp"
+                android:background="@drawable/bg_input_premium"/>
+
 
             <!-- Fuel usage input label -->
             <TextView
@@ -146,8 +148,10 @@
                 android:layout_marginTop="18dp"
                 android:backgroundTint="#1B5E20"
                 android:text="@string/button_calculate"
+                android:background="@drawable/bg_button_primary"
                 android:textColor="#FFFFFF"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                />
 
             <!-- Reset button -->
             <Button
@@ -155,9 +159,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
-                android:backgroundTint="#757575"
+                android:background="@drawable/bg_button_secondary"
                 android:text="@string/button_reset"
-                android:textColor="#FFFFFF" />
+                android:textColor="#1B5E20" />
 
         </LinearLayout>
 
@@ -167,7 +171,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="18dp"
-            android:background="#FFFFFF"
+            android:background="@drawable/bg_card_premium"
             android:elevation="4dp"
             android:orientation="vertical"
             android:padding="16dp">
@@ -205,8 +209,10 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:text="@string/total_saving_default"
+                android:background="@drawable/bg_result_highlight"
                 android:textColor="#1B5E20"
                 android:textSize="18sp"
+                android:padding="12dp"
                 android:textStyle="bold" />
 
             <TextView

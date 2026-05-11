@@ -20,7 +20,7 @@
         android:textColor="#FFFFFF"
         android:gravity="center"
         android:padding="16dp"
-        android:background="#1B5E20" />
+        android:background="@drawable/bg_header_gradient" />
 
     <!-- Fragment container -->
     <!-- HomeFragment and AboutFragment will appear inside this area -->

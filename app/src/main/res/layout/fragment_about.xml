@@ -54,7 +54,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
-            android:background="#FFFFFF"
+            android:background="@drawable/bg_card_premium"
             android:elevation="4dp"
             android:orientation="vertical"
             android:padding="18dp">
@@ -103,7 +103,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="18dp"
-            android:background="#FFFFFF"
+            android:background="@drawable/bg_card_premium"
             android:elevation="4dp"
             android:orientation="vertical"
             android:padding="18dp">
