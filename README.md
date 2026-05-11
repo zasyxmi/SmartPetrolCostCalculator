@@ -51,16 +51,16 @@ The rebate is calculated using the subsidy rate of:
 RM 1.99 per liter
 ```
 
-## 📷 Application Screenshots
+## 📸 Application Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_screen.png)
+<img src="screenshots/home_screen.png" width="250">
 
 ### Calculation Result
-![Calculation Result](screenshots/calculation_result.png)
+<img src="screenshots/calculation_result.png" width="250">
 
 ### About Page
-![About Page](screenshots/about_screen.png)
+<img src="screenshots/about_screen.png" width="250">
 
 ``` 
 
