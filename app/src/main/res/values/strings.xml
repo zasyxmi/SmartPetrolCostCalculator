@@ -45,7 +45,7 @@
 
     <!-- Replace this with your real GitHub URL later -->
     <string name="github_label">GitHub Repository</string>
-    <string name="github_url">https://github.com/zasyxmi/SmartPetrolCostCalculator</string>
+    <string name="github_url">https://github.com/zasyxmi/smart-petrol-budimadani95-calculator</string>
 
     <!-- Validation messages -->
     <string name="error_empty_price">Please enter petrol price per liter.</string>
