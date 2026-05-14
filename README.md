@@ -53,14 +53,13 @@ RM 1.99 per liter
 
 ## 📸 Application Screenshots
 
-### Home Page
-<img src="screenshots/home_screen.png" width="250">
+| Splash Screen | Home Page |
+|--------------|-----------|
+| <img src="screenshots/splash_screen.png" width="220"> | <img src="screenshots/home_screen.png" width="220"> |
 
-### Calculation Result
-<img src="screenshots/calculation_result.png" width="250">
-
-### About Page
-<img src="screenshots/about_screen.png" width="250">
+| Calculation Result | About Page |
+|--------------------|------------|
+| <img src="screenshots/calculation_result.png" width="220"> | <img src="screenshots/about_screen.png" width="220"> |
 
 ``` 
 
